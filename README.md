@@ -20,7 +20,7 @@ Este proyecto tiene como objetivo proporcionar una interfaz digital para el men�
 
 ## Tecnologías Utilizadas
 
-- **HTML, CSS, JavaScript**: La aplicación utiliza estas tecnologías web estándar para la interfaz de usuario y la funcionalidad del lado del cliente.
+- **HTML, CSS, JS**: La aplicación utiliza estas tecnologías web estándar para la interfaz de usuario y la funcionalidad del lado del cliente.
 
 - **Git**: Utilizamos Git como sistema de control de versiones para gestionar y realizar un seguimiento de los cambios en el código fuente.
 
